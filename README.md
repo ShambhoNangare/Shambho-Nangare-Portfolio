@@ -17,7 +17,7 @@ and decision-making.
 <a href="mailto:nangareshambho@gmail.com">📧 Email</a>
 <a href="https://www.linkedin.com/in/shambho-nangare/">🔗 LinkedIn</a>
 <a href="https://github.com/ShambhoNangare">💻 GitHub</a>
-📞 <a href="https://wa.me/918308937549">+91 83089 37549</a>
+<a href="https://wa.me/918308937549">📞 +91 83089 37549</a>
 </p>
 
 ---
