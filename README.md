@@ -21,6 +21,21 @@ and problem-solving skills to deliver data-driven insights and grow professional
 
 ---
 
+<h3 align="left">📄 Resume</h3>
+
+<p align="left">
+A detailed overview of my education, technical skills, projects, and certifications
+related to Data Analysis, Business Analytics, Statistics, and Machine Learning.
+</p>
+
+<p align="left">
+<a href="https://github.com/ShambhoNangare/Shambho-Nangare-Porfolio/raw/main/Shambho_Nangare_2026.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+</p>
+
+---
+
 <h3 align="left">🏷️ Skills & Tools Badges</h3>
 
 <!-- Programming & Analytics -->
