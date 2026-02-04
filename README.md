@@ -75,6 +75,14 @@ and problem-solving skills to deliver data-driven insights and grow professional
 <!-- Data Analysis Projects -->
 <h4 align="left">📊 Data Analysis Projects</h4>
 
+<b>Sales Performance Analysis Dashboard</b><br>
+• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
+• Built interactive Power BI dashboards with slicers and drill-down features<br>
+• Translated insights into business-focused recommendations<br>
+<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
+
+<br>
+
 <b>Trader Behavior Insights</b><br>
 • Analyzed trader behavior under different market sentiments such as Extreme Greed,
 Greed, Fear, and Neutral conditions<br>
@@ -83,18 +91,10 @@ Greed, Fear, and Neutral conditions<br>
 • Generated actionable insights to support sentiment-aware trading strategies<br>
 <a href="https://github.com/ShambhoNangare/Trader-Behavior-Insights">🔗 GitHub Repository</a>
 
-<br>
-
-<b>Sales Performance Analysis Dashboard</b><br>
-• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
-• Built interactive Power BI dashboards with slicers and drill-down features<br>
-• Translated insights into business-focused recommendations<br>
-<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
-
 ---
 
 <!-- Machine Learning Projects -->
-<h4 align="left">🤖 Machine Learning Projects</h4>
+<h4 align="left">🤖 Data Science Projects</h4>
 
 <b>House Price Prediction</b><br>
 • Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
