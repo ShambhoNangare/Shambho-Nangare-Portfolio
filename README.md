@@ -88,10 +88,10 @@ A Detailed Overview of My Education, Technical Skills, Projects, and Certificati
 
 ---
 
-<h3 align="left">📁 Projects</h3>
+<h3 align="center">📁 Projects</h3>
 
 <!-- Data Analysis Projects -->
-<h4 align="left">📊 Data Analysis Projects</h4>
+<h4 align="center">📊 Data Analysis Projects</h4>
 
 <b>Sales Performance Analysis Dashboard</b><br>
 • Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
@@ -112,7 +112,7 @@ Greed, Fear, and Neutral conditions<br>
 ---
 
 <!-- Machine Learning Projects -->
-<h4 align="left">🤖 Data Science Projects</h4>
+<h4 align="center">🤖 Data Science Projects</h4>
 
 <b>House Price Prediction</b><br>
 • Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
@@ -123,7 +123,7 @@ Greed, Fear, and Neutral conditions<br>
 ---
 
 <!-- Statistical Projects -->
-<h4 align="left">📈 Statistical Analysis Projects</h4>
+<h4 align="center">📈 Statistical Analysis Projects</h4>
 
 <b>Social Media Privacy Awareness – Statistical Study</b><br>
 • Designed and executed survey-based statistical research using primary data<br>
@@ -133,7 +133,7 @@ Greed, Fear, and Neutral conditions<br>
 
 ---
 
-<h3 align="left">📜 Certifications</h3>
+<h3 align="center">📜 Certifications</h3>
 <ul>
 <li>Data Visualization – Develearn</li>
 <li>Data Associate – Symbiosis University, Pune</li>
