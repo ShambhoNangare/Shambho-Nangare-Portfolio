@@ -142,5 +142,9 @@ Greed, Fear, and Neutral conditions<br>
 </ul>
 
 ---
-
-
+<h3 align="center">🌐 Languages</h3>
+<ul>
+<li>English (Professional Working Proficiency) </li>
+<li>Hindi (Fluent) </li>
+<li>Marathi (Native)</li>
+</ul>
