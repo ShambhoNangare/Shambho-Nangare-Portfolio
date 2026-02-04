@@ -12,8 +12,17 @@ and decision-making.
 
 ---
 
-<h3 align="left">🎯 Career Objective</h3>
-<p align="left">
+<h3 align="center">🤝 Connect with Me</h3>
+<p align="center">
+<a href="mailto:nangareshambho@gmail.com">📧 Email</a>
+<a href="https://www.linkedin.com/in/shambho-nangare/">🔗 LinkedIn</a>
+<a href="https://github.com/ShambhoNangare">💻 GitHub</a>
+</p>
+
+---
+
+<h3 align="center">🎯 Career Objective</h3>
+<p align="center">
 Seeking entry-level opportunities across Data Analyst, Business Analyst,
 and Analytics roles where I can apply statistical analysis, data visualization,
 and problem-solving skills to deliver data-driven insights and grow professionally.
@@ -21,13 +30,13 @@ and problem-solving skills to deliver data-driven insights and grow professional
 
 ---
 
-<h3 align="left">📄 Resume</h3>
+<h3 align="center">📄 Resume</h3>
 
-<p align="left">
+<p align="center">
 A Detailed Overview of My Education, Technical Skills, Projects, and Certifications, Spanning Data Analysis, Business Analytics, Statistical Methods, Reporting, Dashboard Development, and Data-Driven Decision Support.
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ShambhoNangare/Shambho-Nangare-Portfolio/raw/main/Shambho_Nangare_2026.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
@@ -35,18 +44,18 @@ A Detailed Overview of My Education, Technical Skills, Projects, and Certificati
 
 ---
 
-<h3 align="left">🏷️ Skills & Tools Badges</h3>
+<h3 align="center">🏷️ Skills & Tools Badges</h3>
 
 <!-- Programming & Analytics -->
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Python-Data_Analysis-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/SQL-Data_Querying-orange?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Statistics-Data_Analysis-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-Analysis-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-Basics-yellow?style=for-the-badge"/>
 </p>
 
 <!-- Python Libraries -->
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-Data_Wrangling-blue?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-lightblue?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
@@ -55,32 +64,27 @@ A Detailed Overview of My Education, Technical Skills, Projects, and Certificati
 </p>
 
 <!-- Excel Skills -->
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/MS_Excel-Advanced-success?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Power_BI-Advanced-yellow?style=for-the-badge&logo=powerbi"/>
 </p>
 
 <!-- Data Concepts -->
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Cleaning-Data_Preparation-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL/ELT-Data_Pipelines-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-Data_Pipelines-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Storytelling-Business_Insights-blueviolet?style=for-the-badge"/>
 </p>
 
-
----
-
-<h3 align="left">📌 Core Skills</h3>
-<ul>
-<li>Exploratory Data Analysis (EDA)</li>
-<li>Statistical Analysis & Hypothesis Testing</li>
-<li>Data Cleaning, Wrangling & Transformation</li>
-<li>SQL Queries & Data Extraction</li>
-<li>Dashboarding & KPI Reporting (Power BI)</li>
-<li>Machine Learning Model Training & Evaluation</li>
-<li>Business Insights & Data Storytelling</li>
-</ul>
+<p align="center">
+<img src="https://img.shields.io/badge/Communication-Effective-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-Analytical-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Critical_Thinking-Data_Driven-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaboration-Team_Player-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Management-Organized-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adaptability-Fast_Learner-red?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -138,9 +142,4 @@ Greed, Fear, and Neutral conditions<br>
 
 ---
 
-<h3 align="left">🤝 Connect with Me</h3>
-<p align="left">
-<a href="mailto:nangareshambho@gmail.com">📧 Email</a><br>
-<a href="https://www.linkedin.com/in/shambho-nangare/">🔗 LinkedIn</a><br>
-<a href="https://github.com/ShambhoNangare">💻 GitHub</a>
-</p>
+
