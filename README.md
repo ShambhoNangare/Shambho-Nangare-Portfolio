@@ -24,12 +24,11 @@ and problem-solving skills to deliver data-driven insights and grow professional
 <h3 align="left">📄 Resume</h3>
 
 <p align="left">
-A detailed overview of my education, technical skills, projects, and certifications
-related to Data Analysis, Business Analytics, Statistics, and Machine Learning.
+A Detailed Overview of My Education, Technical Skills, Projects, and Certifications, Spanning Data Analysis, Business Analytics, Statistical Methods, Reporting, Dashboard Development, and Data-Driven Decision Support.
 </p>
 
 <p align="left">
-<a href="https://github.com/ShambhoNangare/Shambho-Nangare-Porfolio/raw/main/Shambho_Nangare_2026.pdf" target="_blank">
+<a href="https://github.com/ShambhoNangare/Shambho-Nangare-Portfolio/raw/main/Shambho_Nangare_2026.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 </p>
