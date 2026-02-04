@@ -12,14 +12,6 @@ and decision-making.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShambhoNangare&show_icons=true&theme=default" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShambhoNangare&layout=compact&theme=default" height="165"/>
-</p>
-
----
-
 <h3 align="left">🎯 Career Objective</h3>
 <p align="left">
 Seeking entry-level opportunities across Data Analyst, Business Analyst,
@@ -29,18 +21,39 @@ and problem-solving skills to deliver data-driven insights and grow professional
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">🏷️ Skills & Tools Badges</h3>
+
+<!-- Programming & Analytics -->
 <p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40"/></a>
+<img src="https://img.shields.io/badge/Python-Data_Analysis-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-Data_Querying-orange?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Statistics-Data_Analysis-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Basics-yellow?style=for-the-badge"/>
 </p>
+
+<!-- Python Libraries -->
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-Data_Wrangling-blue?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-lightblue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-Statistical_Visualization-teal?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML_Models-red?style=for-the-badge&logo=scikit-learn"/>
+</p>
+
+<!-- Excel Skills -->
+<p align="left">
+<img src="https://img.shields.io/badge/MS_Excel-Advanced-success?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Power_BI-Advanced-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
+
+<!-- Data Concepts -->
+<p align="left">
+<img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-Data_Preparation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL/ELT-Data_Pipelines-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Storytelling-Business_Insights-blueviolet?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -59,6 +72,22 @@ and problem-solving skills to deliver data-driven insights and grow professional
 
 <h3 align="left">📁 Featured Projects</h3>
 
+<b>🏠 House Price Prediction</b><br>
+• Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
+• Handled missing values, outliers, skewness, and inconsistent distributions<br>
+• Trained and evaluated machine learning models using train-test split<br>
+<a href="https://github.com/ShambhoNangare/House-Price-Prediction">🔗 GitHub Repository</a>
+
+<br>
+
+<b>📈 Sales Performance Analysis Dashboard</b><br>
+• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
+• Built interactive Power BI dashboards with slicers and drill-down features<br>
+• Translated insights into business-focused recommendations<br>
+<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
+
+<br>
+
 <b>📊 Trader Behavior Insights</b><br>
 • Analyzed trader behavior under different market sentiments such as Extreme Greed,
 Greed, Fear, and Neutral conditions<br>
@@ -67,23 +96,7 @@ Greed, Fear, and Neutral conditions<br>
 • Generated actionable insights to support sentiment-aware trading strategies<br>
 <a href="https://github.com/ShambhoNangare/Trader-Behavior-Insights">🔗 GitHub Repository</a>
 
-<br><br>
-
-<b>🏠 House Price Prediction</b><br>
-• Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
-• Handled missing values, outliers, skewness, and inconsistent distributions<br>
-• Trained and evaluated machine learning models using train-test split<br>
-<a href="https://github.com/ShambhoNangare/House-Price-Prediction">🔗 GitHub Repository</a>
-
-<br><br>
-
-<b>📈 Sales Performance Analysis Dashboard</b><br>
-• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
-• Built interactive Power BI dashboards with slicers and drill-down features<br>
-• Translated insights into business-focused recommendations<br>
-<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
-
-<br><br>
+<br>
 
 <b>🔐 Social Media Privacy Awareness – Statistical Study</b><br>
 • Designed and executed survey-based statistical research using primary data<br>
