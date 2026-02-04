@@ -70,25 +70,12 @@ and problem-solving skills to deliver data-driven insights and grow professional
 
 ---
 
-<h3 align="left">📁 Featured Projects</h3>
+<h3 align="left">📁 Projects</h3>
 
-<b>🏠 House Price Prediction</b><br>
-• Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
-• Handled missing values, outliers, skewness, and inconsistent distributions<br>
-• Trained and evaluated machine learning models using train-test split<br>
-<a href="https://github.com/ShambhoNangare/House-Price-Prediction">🔗 GitHub Repository</a>
+<!-- Data Analysis Projects -->
+<h4 align="left">📊 Data Analysis Projects</h4>
 
-<br>
-
-<b>📈 Sales Performance Analysis Dashboard</b><br>
-• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
-• Built interactive Power BI dashboards with slicers and drill-down features<br>
-• Translated insights into business-focused recommendations<br>
-<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
-
-<br>
-
-<b>📊 Trader Behavior Insights</b><br>
+<b>Trader Behavior Insights</b><br>
 • Analyzed trader behavior under different market sentiments such as Extreme Greed,
 Greed, Fear, and Neutral conditions<br>
 • Studied the impact of sentiment on profitability, trade size, and trading strategy<br>
@@ -98,7 +85,29 @@ Greed, Fear, and Neutral conditions<br>
 
 <br>
 
-<b>🔐 Social Media Privacy Awareness – Statistical Study</b><br>
+<b>Sales Performance Analysis Dashboard</b><br>
+• Analyzed multi-dimensional sales data across regions, states, and customer segments<br>
+• Built interactive Power BI dashboards with slicers and drill-down features<br>
+• Translated insights into business-focused recommendations<br>
+<a href="https://github.com/ShambhoNangare/Sales-Data-Analysis-and-Dashboard-Project">🔗 GitHub Repository</a>
+
+---
+
+<!-- Machine Learning Projects -->
+<h4 align="left">🤖 Machine Learning Projects</h4>
+
+<b>House Price Prediction</b><br>
+• Built an end-to-end data analytics pipeline including data cleaning, EDA, and feature analysis<br>
+• Handled missing values, outliers, skewness, and inconsistent distributions<br>
+• Trained and evaluated machine learning models using train-test split<br>
+<a href="https://github.com/ShambhoNangare/House-Price-Prediction">🔗 GitHub Repository</a>
+
+---
+
+<!-- Statistical Projects -->
+<h4 align="left">📈 Statistical Analysis Projects</h4>
+
+<b>Social Media Privacy Awareness – Statistical Study</b><br>
 • Designed and executed survey-based statistical research using primary data<br>
 • Applied EDA, cross-tabulation, and statistical interpretation techniques<br>
 • Delivered evidence-based insights to support awareness initiatives<br>
