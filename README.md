@@ -12,6 +12,13 @@ and decision-making.
 
 ---
 
+<h3 align="center">💡 What I Do</h3>
+<p align="center">
+Analyze data • Build dashboards • Generate insights • Support business decisions
+</p>
+
+---
+
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
 <a href="mailto:nangareshambho@gmail.com">📧 Email</a>
